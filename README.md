@@ -3,5 +3,5 @@
 - 🔭 Hoje eu ainda não estou trabalhando/estagiando.
 - 🌱 Estudando Python.
 - 📫 Contate-me no email: contato.gcneves@gmail.com .
-- ⚡ Proximos passo: Ficar fluente em ingles.
+- ⚡ Proximos passos: Ficar fluente em ingles.
 
