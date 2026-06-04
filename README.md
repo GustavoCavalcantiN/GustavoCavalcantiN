@@ -29,12 +29,9 @@
 - Email: [contato.gcneves@gmail.com](mailto:contato.gcneves@gmail.com)  
 - LinkedIn: [Gustavo Cavalcanti]([https://www.linkedin.com/in/gustavo-cavalcanti-046b723b4/])
 
-   <img src="https://www.linkedin.com/in/gustavo-cavalcanti-046b723b4/" /> | `https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`
 
 ## O que estou aprendendo 📖
 
-- Estruturas avançadas de APIs REST (Autenticação, Autorização, e Rate Limiting)  
-- Testes automatizados com Jest e Pytest  
-- Integração com bancos NoSQL e ORMs (Prisma e SQLAlchemy)  
-- Microsserviços com Node.js e Docker  
-- Boas práticas em desenvolvimento BackEnd  
+- Python  
+- JavaScript
+- Boas práticas em desenvolvimento FrontEnd  
