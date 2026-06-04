@@ -29,6 +29,7 @@
 - Email: [contato.gcneves@gmail.com](mailto:contato.gcneves@gmail.com)  
 - LinkedIn: [Gustavo Cavalcanti]([https://www.linkedin.com/in/gustavo-cavalcanti-046b723b4/])
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ## O que estou aprendendo 📖
 
