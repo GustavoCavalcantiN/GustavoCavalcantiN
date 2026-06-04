@@ -27,8 +27,12 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
+
+## 📫 Como falar comigo?
+
+- Email: [contato.gcneves@gmail.com](mailto:contato.gcneves@gmail.com)  
+- LinkedIn: [Gustavo Cavalcanti]([https://www.linkedin.com/in/gustavo-cavalcanti-046b723b4/])
 ---
 
 ## O que estou aprendendo 📖
