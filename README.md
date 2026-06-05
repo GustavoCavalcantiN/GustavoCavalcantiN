@@ -1,10 +1,9 @@
-## Olá ! Eu sou GustavoCavalcantiN
+ #👨🏻‍💻Gustavo Cavalcanti
 
-- 🔭 Hoje eu ainda não estou trabalhando/estagiando.
-- 🌱 Estudando Python, JavaScript.
-- ⚡ Proximos passos: Ficar fluente em ingles.
+**`Estudante de Ciências da Computação`**
 
----
+Me chamo Gustavo Cavalcanti Neves Filho, tenho 18 anos e sou natural de Recife. Atualmente estou cursando Ciencias da Computação na Cesar School. Sou fascinado por tecnologia e estou compartilhando todo o meu curso no meu Linkedin "[Gustavo Cavalcanti](www.linkedin.com/in/gustavo--cavalcanti)", onde mostros meus projetos e certificados. 
+
 
 ## My Tech Stack ⚙️
 
@@ -37,12 +36,7 @@
 - JavaScript
 - Boas práticas em desenvolvimento FrontEnd
 
-  #👨🏻‍💻Gustavo Cavalcanti
-
-**`Estudante de Ciências da Computação`**
-
-Me chamo Gustavo Cavalcanti Neves Filho, tenho 18 anos e sou natural de Recife. Atualmente estou cursando Ciencias da Computação na Cesar School. Sou fascinado por tecnologia e estou compartilhando todo o meu curso no meu Linkedin "[Gustavo Cavalcanti](www.linkedin.com/in/gustavo--cavalcanti)", onde mostros meus projetos e certificados. 
-
+ 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
