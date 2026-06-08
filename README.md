@@ -71,6 +71,10 @@ Me chamo Gustavo Cavalcanti Neves Filho, tenho 18 anos e sou natural de Recife. 
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
+ <a href="mailto:contato.gcneves@gmail.com">
+  <img align="center" alt="Seu Nome | Email" height="40" width="40" src="https://jsdelivr.net">
+</a>
+
 ## O que estou aprendendo 📖
 
 - Python  
